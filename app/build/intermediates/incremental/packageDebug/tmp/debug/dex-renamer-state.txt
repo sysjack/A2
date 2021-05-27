@@ -1,4 +1,4 @@
-#Thu May 27 14:07:03 MSK 2021
+#Thu May 27 14:43:49 MSK 2021
 base.2=C\:\\Users\\sysHP\\a01\\first\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
 path.2=11/classes.dex
 base.1=C\:\\Users\\sysHP\\a01\\first\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
