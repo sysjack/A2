@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">firstApp</string>
+    <string name="correct">Правильно!</string>
+    <string name="incorrect">Не правильно!</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="question0">Марс это планета?</string>
+    <string name="question1">Марс это лакомство?</string>
+    <string name="question2">Бетховен это собака?</string>
+    <string name="question3">Ноутбук плавает?</string>
+    <string name="question4">Солнце больше Луны?</string>
+    <string name="question5">Айфон работает на Андроиде?</string>
+    <string name="answer">Ваши ответы</string>
+    <string name="rightAnswer">Показать ответ</string>
+    <string name="start_new">Начать заново</string>
+</resources>
